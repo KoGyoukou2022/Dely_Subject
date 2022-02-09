@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  RecipeList
+
+  Created by RLSUU210300 on 2022/02/06.
+  
+*/
+
+"RecipeList.TabBar.Title" = "レシピ";
+"RecipeList.NavBar.Title" = "野菜料理";
+
+"MyFavorites.TabBar.Title" = "お気に入り";
+"MyFavorites.NavBar.Title" = "お気に入り";
+
+"RecipeDetail.Alert.Message" = "レシピを気に入りに追加しました";
